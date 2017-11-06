@@ -11,13 +11,13 @@
 
 # Todo
 #### 06.11.2017 (Sprint 1)
-1. Definition of Done [Marko/Besar/Terry]
-1. User Stories [Marko/Besar/Terry]
-1. github einrichten [Terry]
-1. To Do Liste erstellen [Terry]
-1. Akzeptanzkriterium [Marko]
-1. html Webpage coden [Besar]
-1. Lesson Learnend (jeder für sich) [Marko/Besar/Terry]
+1. [Marko/Besar/Terry] Definition of Done
+1. [Marko/Besar/Terry] User Stories 
+1. [Terry] github einrichten 
+1. [Terry] To Do Liste erstellen [Terry]
+1. [Marko] Akzeptanzkriterium [Marko]
+1. [Besar] html Webpage coden 
+1. [Marko/Besar/Terry] Lesson Learnend (jeder für sich) 
 
 #### 13.11.2017 (Sprint 2)
 1. Task 1
