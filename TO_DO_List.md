@@ -11,9 +11,9 @@
 
 # Todo
 #### 06.11.2017 (Sprint 1)
-1. Task 1
-1. Task 1
-1. Task 1
+1. Task 1 [Marco]
+1. Task 1 [Besar]
+1. Task 1 [Terry]
 
 #### 13.11.2017 (Sprint 2)
 1. Task 1
