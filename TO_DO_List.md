@@ -1,19 +1,21 @@
 
-| Sprint   | Planned         | Done  |
-| -------- |:-------------:| -----:|
-| 1        |               |       |
-| 2        |               |    |
-|          | Task3         |   |
+| Sprint   | Planned   | Remaining  | Done  |
+|:--------:|:---------:|:----------:|:-----:|
+| 1        | xx        | xx         | xx    |
+| 2        | xx        | xx         | xx    |
+| 3        | xx        | xx         | xx    |
+| 4        | xx        | xx         | xx    |
+| 5        | xx        | xx         | xx    |
 
 
 
-#Todo
+# Todo
 1. Task 1
 1. Task 1
 1. Task 1
 
-#Dones
+# Dones
 
-#Hints
+# Hints
 Markdown Syntax
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
