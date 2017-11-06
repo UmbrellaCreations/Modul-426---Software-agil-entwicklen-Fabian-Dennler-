@@ -10,11 +10,37 @@
 
 
 # Todo
+#### 06.11.2017
 1. Task 1
 1. Task 1
 1. Task 1
 
+#### 13.11.2017
+1. Task 1
+1. Task 1
+1. Task 1
+
+#### 20.11.2017
+1. Task 1
+1. Task 1
+1. Task 1
+
+
 # Dones
+#### 06.11.2017
+1. Task 1
+1. Task 1
+1. Task 1
+
+#### 13.11.2017
+1. Task 1
+1. Task 1
+1. Task 1
+
+#### 20.11.2017
+1. Task 1
+1. Task 1
+1. Task 1
 
 # Hints
 Markdown Syntax
