@@ -1,7 +1,7 @@
 
 | Sprint   | Planned   | Remaining  | Done  |
 |:--------:|:---------:|:----------:|:-----:|
-| 1        | xx        | xx         | xx    |
+| 1        | 08        | 00         | 08    |
 | 2        | xx        | xx         | xx    |
 | 3        | xx        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
@@ -17,6 +17,7 @@
 1. [Terry] To Do Liste erstellen [Terry]
 1. [Marko] Akzeptanzkriterium [Marko]
 1. [Besar] html Webpage coden 
+1. [Besar] Codestyleguide
 1. [Marko/Besar/Terry] Lesson Learnend (jeder für sich) 
 
 #### 13.11.2017 (Sprint 2)
