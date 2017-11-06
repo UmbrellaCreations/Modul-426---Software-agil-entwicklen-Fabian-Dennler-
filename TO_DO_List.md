@@ -10,34 +10,34 @@
 
 
 # Todo
-#### 06.11.2017
+#### 06.11.2017 (Sprint 1)
 1. Task 1
 1. Task 1
 1. Task 1
 
-#### 13.11.2017
+#### 13.11.2017 (Sprint 2)
 1. Task 1
 1. Task 1
 1. Task 1
 
-#### 20.11.2017
+#### 20.11.2017 (Sprint 3)
 1. Task 1
 1. Task 1
 1. Task 1
 
 
 # Dones
-#### 06.11.2017
+#### 06.11.2017 (Sprint 1)
 1. Task 1
 1. Task 1
 1. Task 1
 
-#### 13.11.2017
+#### 13.11.2017 (Sprint 2)
 1. Task 1
 1. Task 1
 1. Task 1
 
-#### 20.11.2017
+#### 20.11.2017 (Sprint 3)
 1. Task 1
 1. Task 1
 1. Task 1
