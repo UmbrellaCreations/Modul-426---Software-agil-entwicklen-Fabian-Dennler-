@@ -97,7 +97,9 @@ Keine
 1. Daten von letzter Woche auf GitHub uploaden
 1. Kunden Login erstellen
 1. Responsive Design erstellen
-1. 
+1. FrontEnd (html)-> Hinzufügen/Löschen/Anzeigen von Datensätze (Zitaten)
+1. Hosting/Webspace/Livedatenbank aufsetzen
+1. SQL Datenbank erstellen
 
 #### 20.11.2017 (Sprint 3)
 1. Task 1
