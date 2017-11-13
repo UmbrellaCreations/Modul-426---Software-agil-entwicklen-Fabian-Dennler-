@@ -25,6 +25,7 @@
 1. [Besar] ~~Kunden Login erstellen~~
 1. [Besar] ~~Responsive Design erstellen~~
 1. [Marko] SQL Datenbank erstellen
+1. [] Manuelles testing der Datenbank
 1. [] Daten von Datenbank holen und anzeigen
 1. [] Liste von Daten erstellen (Zitat/Autor/Löschbutton)
 1. [] CSS erstellen und anpassen
