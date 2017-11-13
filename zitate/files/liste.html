@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Liste</title>
+		
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		
+		<link rel="stylesheet" href="liste.css">
+	</head>
+		<body>
+
+		<div id="myDIV" class="header">
+		  <h2 style="margin:5px">Zitatliste</h2>
+		  <input type="text" id="inputZitat" placeholder="Zitat...">
+		  <input type="text" id="inputAutor" placeholder="Autor...">
+		  <span onclick="newElement()" class="addBtn">hinzufügen</span>
+		</div>
+
+		<ul id="myUL">
+		  <li>Hit the gym</li>
+		  <li>Pay bills</li>
+		  <li>Meet George</li>
+		  <li>Buy eggs</li>
+		  <li>Read a book</li>
+		  <li>Organize office</li>
+		</ul>
+		
+		<script>
+		
+		// Create a "close" button and append it to each list item
+		var myNodelist = document.getElementsByTagName("LI");
+		var i;
+		for (i = 0; i < myNodelist.length; i++) {
+		  var span = document.createElement("SPAN");
+		  var txt = document.createTextNode("\u00D7");
+		  
+		  span.className = "close";
+		  
+		  span.appendChild(txt);
+		  
+		  // set div and set autor
+		  var div = document.createElement("DIV");
+		  var txt = document.createTextNode("Autor");
+		  
+		  // Set text in div
+		  div.appendChild(txt);
+		  
+		  myNodelist[i].appendChild(span);
+		  
+		  // Put in div
+		  myNodelist[i].appendChild(div);
+		}
+		
+		// Click on a close button to hide the current list item
+		var close = document.getElementsByClassName("close");
+		var i;
+		for (i = 0; i < close.length; i++) {
+		  close[i].onclick = function() {
+			var div = this.parentElement;
+			div.style.display = "none";
+		  }
+		}
+
+		// Create a new list item when clicking on the "Add" button
+		function newElement() {
+		
+		  var li = document.createElement("li");
+		  
+		  var inputZitat = document.getElementById("inputZitat").value;
+		  var inputAutor = document.getElementById("inputAutor").value;
+		  
+		  var z = document.createTextNode(inputZitat);
+		  
+		  li.appendChild(z);
+		  
+		  if (inputZitat === '' || inputAutor === '') {
+			alert("Die Felder dürfen nicht leer sein!");
+		  } else {
+			document.getElementById("myUL").appendChild(li);
+		  }
+		  document.getElementById("inputZitat").value = "";
+		  document.getElementById("inputAutor").value = "";
+		  
+
+		  var span = document.createElement("SPAN");
+		  var txt = document.createTextNode("\u00D7");
+		  
+		  var div = document.createElement("DIV");
+		  div.className = "secondLine";
+		  var txtBla = document.createTextNode(inputAutor);
+		  
+		  // Delete Button
+		  span.className = "close";
+		  span.appendChild(txt);
+		  
+		  // Set Autor
+		  div.appendChild(txtBla);
+		  
+		  li.appendChild(span);
+		  li.appendChild(div);
+
+		  // Delete input
+		  for (i = 0; i < close.length; i++) {
+			close[i].onclick = function() {
+			  var div = this.parentElement;
+			  div.style.display = "none";
+			}
+		  }
+		}
+		</script>
+
+	</body>
+</html>
