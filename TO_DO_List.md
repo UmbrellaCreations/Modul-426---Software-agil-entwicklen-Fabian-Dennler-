@@ -91,9 +91,10 @@ Keine
 1. Lesson Learnend Tag 01 (jeder für sich)
 
 #### 13.11.2017 (Sprint 2)
-1. Task 1
-1. Task 1
-1. Task 1
+1. Daten von letzter Woche auf GitHub uploaden~~
+1. Kunden Login erstellen
+1. Responsive Design erstellen
+1. 
 
 #### 20.11.2017 (Sprint 3)
 1. Task 1
