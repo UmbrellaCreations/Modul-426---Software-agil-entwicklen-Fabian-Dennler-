@@ -2,7 +2,7 @@
 | Sprint   | Planned   | Remaining  | Done  |
 |:--------:|:---------:|:----------:|:-----:|
 | 1        | 08        | 00         | 08    |
-| 2        | 14        | 07         | 07    |
+| 2        | 14        | 06         | 08    |
 | 3        | xx        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
 | 5        | xx        | xx         | xx    |
@@ -101,6 +101,7 @@ Keine
 1. Hosting/Webspace/Livedatenbank aufsetzen
 1. SQL Datenbank erstellen
 1. Manuelles testing der Datenbank
+1. Ein Administrator und einen User in der Datenbank hinzufügen
 
 #### 20.11.2017 (Sprint 3)
 1. Task 1
