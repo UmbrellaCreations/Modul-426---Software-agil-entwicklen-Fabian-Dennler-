@@ -36,6 +36,35 @@
 1. Task 1
 1. Task 1
 1. Task 1
+1. [Marko/Besar/Ho Tin] Lesson Learnend Tag 03 (jeder für sich) 
+
+#### 27.11.2017 (Sprint 4)
+1. Task 1
+1. Task 1
+1. Task 1
+1. [Marko/Besar/Ho Tin] Lesson Learnend Tag 04 (jeder für sich) 
+
+#### 04.12.2017 (Sprint 5)
+1. Task 1
+1. Task 1
+1. Task 1
+1. [Marko/Besar/Ho Tin] Lesson Learnend Tag 05 (jeder für sich) 
+
+
+# Remaining
+#### 06.11.2017 (Sprint 1)
+Keine
+
+#### 13.11.2017 (Sprint 2)
+1. Task 1
+1. Task 1
+1. Task 1
+
+#### 20.11.2017 (Sprint 3)
+1. Task 1
+1. Task 1
+1. Task 1
+
 
 #### 27.11.2017 (Sprint 4)
 1. Task 1
@@ -50,9 +79,14 @@
 
 # Dones
 #### 06.11.2017 (Sprint 1)
-1. Task 1
-1. Task 1
-1. Task 1
+1. Definition of Done
+1. User Stories
+1. github einrichten
+1. To Do Liste erstellen
+1. Akzeptanzkriterium
+1. html Webpage coden
+1. Codestyleguide
+1. Lesson Learnend Tag 01 (jeder für sich)
 
 #### 13.11.2017 (Sprint 2)
 1. Task 1
