@@ -2,7 +2,7 @@
 | Sprint   | Planned   | Remaining  | Done  |
 |:--------:|:---------:|:----------:|:-----:|
 | 1        | 08        | 08         | 08    |
-| 2        | 13        | 10         | 03    |
+| 2        | 14        | 11         | 03    |
 | 3        | xx        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
 | 5        | xx        | xx         | xx    |
@@ -25,6 +25,7 @@
 1. **[Besar]** ~~Kunden Login erstellen~~
 1. **[Besar]** ~~Responsive Design erstellen~~
 1. **[Besar/Johannes]** FrontEnd -> Hinzufügen/Löschen/Anzeigen von Datensätze (Zitaten)
+1. **[Johannes]** Hosting/Webspace/Livedatenbank aufsetzen
 1. **[Marko/Ho Tin]** SQL Datenbank erstellen
 1. **[Marko/Ho Tin]** Ein Administrator und einen User in der Datenbank hinzufügen
 1. **[Marko]** Manuelles testing der Datenbank
