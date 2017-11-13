@@ -2,7 +2,7 @@
 | Sprint   | Planned   | Remaining  | Done  |
 |:--------:|:---------:|:----------:|:-----:|
 | 1        | 08        | 00         | 08    |
-| 2        | 14        | 07         | 07    |
+| 2        | 14        | 03         | 11    |
 | 3        | xx        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
 | 5        | xx        | xx         | xx    |
@@ -28,13 +28,13 @@
 1. **[Johannes]** ~~Hosting/Webspace/Livedatenbank aufsetzen~~
 1. **[Marko/Ho Tin]** ~~SQL Datenbank erstellen~~
 1. **[Marko]** ~~Manuelles testing der Datenbank~~
-1. **[Marko/Ho Tin]** Ein Administrator und einen User in der Datenbank hinzufügen
+1. **[Marko/Ho Tin]** ~~Ein Administrator und einen User in der Datenbank hinzufügen~~
 1. **[Ho Tin]** 10 Datensätze (Zitaten) hinzufügen
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[Besar/Johannes]** CSS erstellen und anpassen
-1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 02 (jeder für sich)
-1. **[Ho Tin]** GitHub ToDo Liste/Burndown Chart aktualisieren
-1. **[Ho Tin]** Alle Dateien von 13.11.17 auf GitHub uploaden
+1. **[Marko/Besar/Ho Tin/Johannes]** ~~Lesson Learnend Tag 02 (jeder für sich)~~
+1. **[Ho Tin]** ~~GitHub ToDo Liste/Burndown Chart aktualisieren~~
+1. **[Ho Tin]** ~~Alle Dateien von 13.11.17 auf GitHub uploaden~~
 
 
 #### 20.11.2017 (Sprint 3)
@@ -61,9 +61,9 @@
 Keine
 
 #### 13.11.2017 (Sprint 2)
-1. Task 1
-1. Task 1
-1. Task 1
+1. Datensätze (Zitaten) hinzufügen
+1. Daten von Datenbank holen und anzeigen
+1. CSS erstellen und anpassen
 
 #### 20.11.2017 (Sprint 3)
 1. Task 1
@@ -101,7 +101,10 @@ Keine
 1. Hosting/Webspace/Livedatenbank aufsetzen
 1. SQL Datenbank erstellen
 1. Manuelles testing der Datenbank
-1. 
+1. Ein Administrator und einen User in der Datenbank hinzufügen
+1. Lesson Learnend Tag 02 (jeder für sich)
+1. GitHub ToDo Liste/Burndown Chart aktualisieren
+1. Alle Dateien von 13.11.17 auf GitHub uploaden
 
 #### 20.11.2017 (Sprint 3)
 1. Task 1
