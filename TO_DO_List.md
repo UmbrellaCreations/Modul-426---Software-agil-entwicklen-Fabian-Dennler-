@@ -28,10 +28,10 @@
 1. **[Johannes]** Hosting/Webspace/Livedatenbank aufsetzen
 1. **[Marko/Ho Tin]** SQL Datenbank erstellen
 1. **[Marko/Ho Tin]** Ein Administrator und einen User in der Datenbank hinzufügen
+1. **[Ho Tin]** 10 Datensätze (Zitaten) hinzufügen
 1. **[Marko]** Manuelles testing der Datenbank
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[Besar/Johannes]** CSS erstellen und anpassen
-1. **[Ho Tin]** 10 Datensätze (Zitaten) hinzufügen
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 02 (jeder für sich)
 1. **[Ho Tin]** GitHub ToDo Liste/Burndown Chart aktualisieren
 1. **[Ho Tin]** Alle Dateien von 13.11.17 auf GitHub uploaden
