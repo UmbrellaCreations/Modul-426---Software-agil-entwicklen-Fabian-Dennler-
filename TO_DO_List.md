@@ -24,13 +24,14 @@
 1. [Ho Tin] ~~Daten von letzter Woche auf GitHub uploaden~~
 1. [Besar] ~~Kunden Login erstellen~~
 1. [Besar] ~~Responsive Design erstellen~~
-1. [Marko] SQL Datenbank erstellen
-1. [] Manuelles testing der Datenbank
-1. [] Daten von Datenbank holen und anzeigen
-1. [] Liste von Daten erstellen (Zitat/Autor/Löschbutton)
-1. [] CSS erstellen und anpassen
-1. [] 10 Datensätze hinzufügen
+1. [Besar/Johannes] FrontEnd -> Hinzufügen/Löschen/Anzeigen von Zitaten
+1. [Marko/Ho Tin] SQL Datenbank erstellen
+1. [Marko] Manuelles testing der Datenbank
+1. [Besar/Johannes] Daten von Datenbank holen und anzeigen
+1. [Besar/Johannes] CSS erstellen und anpassen
+1. [Ho Tin] 10 Datensätze hinzufügen
 1. [Marko/Besar/Ho Tin/Johannes] Lesson Learnend Tag 02 (jeder für sich)
+1. [Ho Tin] GitHub ToDo Liste/Burndown Chart aktualisieren
 1. [Ho Tin] Alle Dateien von 13.11.17 auf GitHub uploaden
 
 
