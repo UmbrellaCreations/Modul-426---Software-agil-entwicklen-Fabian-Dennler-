@@ -24,9 +24,9 @@
 1. **[Ho Tin]** ~~Daten von letzter Woche auf GitHub uploaden~~
 1. **[Besar]** ~~Kunden Login (hmtl) erstellen~~
 1. **[Besar]** ~~Responsive Design (html) erstellen~~
-1. **[Besar/Johannes]** FrontEnd (html)-> Hinzufügen/Löschen/Anzeigen von Datensätze (Zitaten)
-1. **[Johannes]** Hosting/Webspace/Livedatenbank aufsetzen
-1. **[Marko/Ho Tin]** SQL Datenbank erstellen
+1. **[Besar/Johannes]** ~~FrontEnd (html)-> Hinzufügen/Löschen/Anzeigen von Datensätze (Zitaten)~~
+1. **[Johannes]** ~~Hosting/Webspace/Livedatenbank aufsetzen~~
+1. **[Marko/Ho Tin]** ~~SQL Datenbank erstellen~~
 1. **[Marko/Ho Tin]** Ein Administrator und einen User in der Datenbank hinzufügen
 1. **[Ho Tin]** 10 Datensätze (Zitaten) hinzufügen
 1. **[Marko]** Manuelles testing der Datenbank
