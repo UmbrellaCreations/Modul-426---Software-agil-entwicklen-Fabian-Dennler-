@@ -36,22 +36,22 @@
 
 
 #### 20.11.2017 (Sprint 3)
+1. [] Irgendwas anpassen (update am 20.11.17)
 1. Task 1
 1. Task 1
-1. Task 1
-1. [Marko/Besar/Ho Tin] Lesson Learnend Tag 03 (jeder für sich) 
+1. [Marko/Besar/Ho Tin/Johannes] Lesson Learnend Tag 03 (jeder für sich) 
 
 #### 27.11.2017 (Sprint 4)
 1. Task 1
 1. Task 1
 1. Task 1
-1. [Marko/Besar/Ho Tin] Lesson Learnend Tag 04 (jeder für sich) 
+1. [Marko/Besar/Ho Tin/Johannes] Lesson Learnend Tag 04 (jeder für sich) 
 
 #### 04.12.2017 (Sprint 5)
 1. Task 1
 1. Task 1
 1. Task 1
-1. [Marko/Besar/Ho Tin] Lesson Learnend Tag 05 (jeder für sich) 
+1. [Marko/Besar/Ho Tin/Johannes] Lesson Learnend Tag 05 (jeder für sich) 
 
 
 # Remaining
