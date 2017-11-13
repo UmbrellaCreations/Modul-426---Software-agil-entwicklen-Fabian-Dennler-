@@ -2,7 +2,7 @@
 | Sprint   | Planned   | Remaining  | Done  |
 |:--------:|:---------:|:----------:|:-----:|
 | 1        | 08        | 08         | 08    |
-| 2        | 10        | xx         | xx    |
+| 2        | 10        | 07         | 03    |
 | 3        | xx        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
 | 5        | xx        | xx         | xx    |
@@ -91,7 +91,7 @@ Keine
 1. Lesson Learnend Tag 01 (jeder für sich)
 
 #### 13.11.2017 (Sprint 2)
-1. Daten von letzter Woche auf GitHub uploaden~~
+1. Daten von letzter Woche auf GitHub uploaden
 1. Kunden Login erstellen
 1. Responsive Design erstellen
 1. 
