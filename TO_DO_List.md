@@ -26,6 +26,7 @@
 1. **[Besar]** ~~Responsive Design erstellen~~
 1. **[Besar/Johannes]** FrontEnd -> Hinzufügen/Löschen/Anzeigen von Datensätze (Zitaten)
 1. **[Marko/Ho Tin]** SQL Datenbank erstellen
+1. **[Marko/Ho Tin]** Ein Administrator und einen User in der Datenbank hinzufügen
 1. **[Marko]** Manuelles testing der Datenbank
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[Besar/Johannes]** CSS erstellen und anpassen
