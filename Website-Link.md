@@ -1,0 +1,1 @@
+http://zitate.phelanswelt.de/
