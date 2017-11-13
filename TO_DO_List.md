@@ -29,7 +29,8 @@
 1. [] Liste von Daten erstellen (Zitat/Autor/Löschbutton)
 1. [] CSS erstellen und anpassen
 1. [] 10 Datensätze hinzufügen
-1. [Marko/Besar/Ho Tin] Lesson Learnend Tag 02 (jeder für sich) 
+1. [Marko/Besar/Ho Tin] Lesson Learnend Tag 02 (jeder für sich)
+1. [Ho Tin] Alle Dateien von 13.11.17 auf GitHub uploaden
 
 
 #### 20.11.2017 (Sprint 3)
