@@ -2,7 +2,7 @@
 | Sprint   | Planned   | Remaining  | Done  |
 |:--------:|:---------:|:----------:|:-----:|
 | 1        | 08        | 00         | 08    |
-| 2        | 14        | 06         | 08    |
+| 2        | 14        | 07         | 07    |
 | 3        | xx        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
 | 5        | xx        | xx         | xx    |
@@ -28,7 +28,7 @@
 1. **[Johannes]** ~~Hosting/Webspace/Livedatenbank aufsetzen~~
 1. **[Marko/Ho Tin]** ~~SQL Datenbank erstellen~~
 1. **[Marko]** ~~Manuelles testing der Datenbank~~
-1. **[Marko/Ho Tin]** ~~Ein Administrator und einen User in der Datenbank hinzufügen~~
+1. **[Marko/Ho Tin]** Ein Administrator und einen User in der Datenbank hinzufügen
 1. **[Ho Tin]** 10 Datensätze (Zitaten) hinzufügen
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[Besar/Johannes]** CSS erstellen und anpassen
@@ -101,7 +101,7 @@ Keine
 1. Hosting/Webspace/Livedatenbank aufsetzen
 1. SQL Datenbank erstellen
 1. Manuelles testing der Datenbank
-1. Ein Administrator und einen User in der Datenbank hinzufügen
+1. 
 
 #### 20.11.2017 (Sprint 3)
 1. Task 1
