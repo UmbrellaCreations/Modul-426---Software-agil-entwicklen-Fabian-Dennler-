@@ -28,7 +28,7 @@
 1. **[Johannes]** ~~Hosting/Webspace/Livedatenbank aufsetzen~~
 1. **[Marko/Ho Tin]** ~~SQL Datenbank erstellen~~
 1. **[Marko]** ~~Manuelles testing der Datenbank~~
-1. **[Marko/Ho Tin]** Ein Administrator und einen User in der Datenbank hinzufügen
+1. **[Marko/Ho Tin]** ~~Ein Administrator und einen User in der Datenbank hinzufügen~~
 1. **[Ho Tin]** 10 Datensätze (Zitaten) hinzufügen
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[Besar/Johannes]** CSS erstellen und anpassen
