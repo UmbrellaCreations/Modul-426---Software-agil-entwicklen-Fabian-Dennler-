@@ -40,7 +40,9 @@
 #### 20.11.2017 (Sprint 3)
 1. **[]** Datensätze (Zitaten) hinzufügen
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
-1. **[]** CSS erstellen und anpassen
+1. **[Marko/Besar]** ~~1/3 CSS erstellen und anpassen (für Frontpage(index.php))~~
+1. **[]** 2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))
+1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[Ho Tin]** Lesson Learned & Verbersserungvorschlag (Team) Dokument erstellen
 1. **[Ho Tin]** Zufällige Ausgabe der Zitaten
 1. **[Marko]** Zitat Timer implementieren
