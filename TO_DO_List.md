@@ -41,7 +41,7 @@
 1. **[]** Datensätze (Zitaten) hinzufügen
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[Marko/Besar]** ~~1/3 CSS erstellen und anpassen (für Frontpage(index.php))~~
-1  **[Besar/Johannes]** ~~Von php auf JSON umstellen~~
+1.  **[Besar/Johannes]** ~~Von php auf JSON umstellen~~
 1. **[]** 2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))
 1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[Ho Tin]** Lesson Learned & Verbersserungvorschlag (Team) Dokument erstellen
