@@ -3,7 +3,7 @@
 |:--------:|:---------:|:----------:|:-----:|
 | 1        | 08        | 00         | 08    |
 | 2        | 14        | 03         | 11    |
-| 3        | 09        | xx         | xx    |
+| 3        | 11        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
 | 5        | xx        | xx         | xx    |
 
@@ -41,6 +41,8 @@
 1. **[]** Datensätze (Zitaten) hinzufügen
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[]** CSS erstellen und anpassen
+1. **[Ho Tin]** Lesson Learned Team Dokument erstellen
+1. **[Ho Tin]** Verbesserungsvorschlag Dokument erstellen
 1. **[Ho Tin]** Zufällige Ausgabe der Zitaten
 1. **[Marko]** Zitat Timer implementieren
 1. **[]** Statistik der Anzahl Hits pro Zitat
