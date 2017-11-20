@@ -3,7 +3,7 @@
 |:--------:|:---------:|:----------:|:-----:|
 | 1        | 08        | 00         | 08    |
 | 2        | 14        | 03         | 11    |
-| 3        | 11        | xx         | xx    |
+| 3        | 15        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
 | 5        | xx        | xx         | xx    |
 
@@ -41,11 +41,15 @@
 1. **[]** Datensätze (Zitaten) hinzufügen
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[]** CSS erstellen und anpassen
-1. **[Ho Tin]** Lesson Learned Team Dokument erstellen
-1. **[Ho Tin]** Verbesserungsvorschlag Dokument erstellen
+1. **[Ho Tin]** Lesson Learned & Verbersserungvorschlag (Team) Dokument erstellen
 1. **[Ho Tin]** Zufällige Ausgabe der Zitaten
 1. **[Marko]** Zitat Timer implementieren
+1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
+1. **[Marko]** ~~Frontpage (index.php) den letzten Schliff verpassen~~
 1. **[]** Statistik der Anzahl Hits pro Zitat
+1. **[]** Lieblingszitate können geliked werden
+1. **[]** Geburtstag der Autoren anzeigen
+1. **[]** Anzahl Zitate und Autoren einblenden
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 03 (jeder für sich)
 1. **[Ho Tin]** GitHub ToDo Liste/Burndown Chart aktualisieren
 1. **[Ho Tin]** Alle Dateien von 20.11.17 auf GitHub uploaden
