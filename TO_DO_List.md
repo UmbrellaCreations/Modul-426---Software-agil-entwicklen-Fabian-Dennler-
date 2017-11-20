@@ -125,10 +125,17 @@ Keine
 1. Alle Dateien von 13.11.17 auf GitHub uploaden
 
 #### 20.11.2017 (Sprint 3)
-1. Task 1
-1. Task 1
-1. Task 1
-
+1. Daten von Datenbank holen und anzeigen
+1. Von php auf JSON umstellen
+1. 1/3 CSS erstellen und anpassen (für Frontpage(index.php))
+1. Zufällige Ausgabe der Zitaten
+1. Zitat Timer implementieren
+1. Akzeptanzkriterien angepasst
+1. Frontpage (index.php) den letzten Schliff verpassen
+1. Lesson Learnend Tag 03 (jeder für sich)
+1. Lesson Learned & Verbersserungvorschlag (Team) Dokument erstellen
+1. GitHub ToDo Liste/Burndown Chart aktualisieren
+1. Alle Dateien von 20.11.17 auf GitHub uploaden
 
 #### 27.11.2017 (Sprint 4)
 1. Task 1
