@@ -41,8 +41,8 @@
 1. **[]** Datensätze (Zitaten) hinzufügen
 1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
 1. **[]** CSS erstellen und anpassen
-1. **[]** Zufällige Ausgabe der Zitaten
-1. **[]** Zitat Timer implementieren
+1. **[Ho Tin]** Zufällige Ausgabe der Zitaten
+1. **[Marko]** Zitat Timer implementieren
 1. **[]** Statistik der Anzahl Hits pro Zitat
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 03 (jeder für sich)
 1. **[Ho Tin]** GitHub ToDo Liste/Burndown Chart aktualisieren
