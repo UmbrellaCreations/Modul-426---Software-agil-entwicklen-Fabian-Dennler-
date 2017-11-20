@@ -47,7 +47,7 @@
 1. **[Besar/Johannes]** ~~Zufällige Ausgabe der Zitaten~~
 1. **[Besar/Johannes]** ~~Zitat Timer implementieren~~
 1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
-1. **[Marko]** ~~Frontpage (index.php) den letzten Schliff verpassen~~
+1. **[Marko/Ho Tin]** ~~Frontpage (index.php) den letzten Schliff verpassen~~
 1. **[]** Statistik der Anzahl Hits pro Zitat
 1. **[]** Lieblingszitate können geliked werden
 1. **[]** Geburtstag der Autoren anzeigen
