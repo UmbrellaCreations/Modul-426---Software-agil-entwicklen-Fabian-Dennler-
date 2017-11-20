@@ -44,7 +44,7 @@
 1.  **[Besar/Johannes]** ~~Von php auf JSON umstellen~~
 1. **[]** 2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))
 1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
-1. **[Ho Tin]** Lesson Learned & Verbersserungvorschlag (Team) Dokument erstellen
+1. **[Ho Tin]** ~~Lesson Learned & Verbersserungvorschlag (Team) Dokument erstellen~~
 1. **[Besar/Johannes]** ~~Zufällige Ausgabe der Zitaten~~
 1. **[Besar/Johannes]** ~~Zitat Timer implementieren~~
 1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
