@@ -1,11 +1,15 @@
 <?php
-// Datenbank-Server verbinden und Datenbank wählen
-$host = "localhost:3307";
-$user = "m426";
-$password = "test123";
-$datenbank = "zitate";
 
-$link = mysqli_connect($host, $user, $password, $datenbank);
+error_reporting(E_ALL);
+
+// Datenbank-Server verbinden und Datenbank wählen
+$host = "localhost";
+$user = "root";
+$password = "usbw";
+$datenbank = "zitate";
+$port = "3307";
+
+$link = mysqli_connect($host, $user, $password, $datenbank, $port);
 
 if (!$link) {
     echo "Error: Unable to connect to MySQL." . PHP_EOL;
@@ -14,4 +18,4 @@ if (!$link) {
     exit;
 }
 
-mysqli_set_charset($verbindung, "utf8");
+mysqli_set_charset($link, "utf8");
