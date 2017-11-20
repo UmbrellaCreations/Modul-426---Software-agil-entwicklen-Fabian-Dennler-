@@ -3,7 +3,7 @@
 |:--------:|:---------:|:----------:|:-----:|
 | 1        | 08        | 00         | 08    |
 | 2        | 14        | 03         | 11    |
-| 3        | xx        | xx         | xx    |
+| 3        | 09        | xx         | xx    |
 | 4        | xx        | xx         | xx    |
 | 5        | xx        | xx         | xx    |
 
@@ -38,10 +38,15 @@
 
 
 #### 20.11.2017 (Sprint 3)
-1. **[]** Irgendwas anpassen (update am 20.11.17)
-1. Task 1
-1. Task 1
-1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 03 (jeder für sich) 
+1. **[]** Datensätze (Zitaten) hinzufügen
+1. **[Besar/Johannes]** Daten von Datenbank holen und anzeigen
+1. **[]** CSS erstellen und anpassen
+1. **[]** Zufällige Ausgabe der Zitaten
+1. **[]** Zitat Timer implementieren
+1. **[]** Statistik der Anzahl Hits pro Zitat
+1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 03 (jeder für sich)
+1. **[Ho Tin]** GitHub ToDo Liste/Burndown Chart aktualisieren
+1. **[Ho Tin]** Alle Dateien von 20.11.17 auf GitHub uploaden
 
 #### 27.11.2017 (Sprint 4)
 1. Task 1
