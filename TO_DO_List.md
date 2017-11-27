@@ -4,7 +4,7 @@
 | 1        | 08        | 00         | 08    |
 | 2        | 14        | 03         | 11    |
 | 3        | 18        | 07         | 11    |
-| 4        | 16        | 11         | 05    |
+| 4        | 20        | 11         | 05    |
 | 5        | xx        | xx         | xx    |
 
 
@@ -71,8 +71,12 @@
 1. **[]** Anzahl Zitate und Autoren einblenden
 1. **[]** Automatisiertes testing der Funktionen implementieren (Log In)
 1. **[]** Zitatwiederholung verhindern
+1. **[]** Code Style Guide fragen was besser machen da wir 4/5 Richtlinien eingehalten haben
 1. **[Marko/Besar/Ho Tin]** ~~2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))~~
 1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
+1. **[Ho Tin]** GitHub erklären
+1. **[Ho Tin]** BurnDown Chart abklären was noch fehlt
+1. **[Ho Tin]** DailyScrum - ungefähre Zeit einbeziehen
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 04 (jeder für sich) 
 1. **[Ho Tin]** Alle Dateien von 27.11.17 auf GitHub uploaden
 
