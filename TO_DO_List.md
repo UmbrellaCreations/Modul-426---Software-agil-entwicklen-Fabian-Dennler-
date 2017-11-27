@@ -58,9 +58,10 @@
 1. **[Ho Tin]** ~~Alle Dateien von 20.11.17 auf GitHub uploaden~~
 
 #### 27.11.2017 (Sprint 4)
-1. **[]** Ordner aufräumen
+1. **[Ho Tin]** Ordner aufräumen
 1. **[]** Mock Up erstellen für login.php & list.php
 1. **[Besar/Johannes]** Datenbank mit Liste verknüpfen und editierbar
+1. **[Marko]** Akzeptanzkriterien angepasst
 1. **[]** Datensätze (Zitaten) hinzufügen
 1. **[]** Sekräterin Account erstellen für Zitate erstellen und bearbeiten
 1. **[]** Statistik der Anzahl Hits pro Zitat
