@@ -4,7 +4,7 @@
 | 1        | 08        | 00         | 08    |
 | 2        | 14        | 03         | 11    |
 | 3        | 18        | 07         | 11    |
-| 4        | 20        | 11         | 05    |
+| 4        | 20        | 13         | 07    |
 | 5        | xx        | xx         | xx    |
 
 
@@ -58,7 +58,7 @@
 1. **[Ho Tin]** ~~Alle Dateien von 20.11.17 auf GitHub uploaden~~
 
 #### 27.11.2017 (Sprint 4)
-1. **[Ho Tin]** Ordner aufräumen
+1. **[Ho Tin]** ~~Ordner aufräumen~~
 1. **[Ho Tin]** ~~Zitaten Info (Notiz) mit zusätzlichen Daten angelegt~~
 1. **[Besar/Johannes]** ~~Datenbank mit Liste verknüpfen und löschen/hinzufügen~~
 1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
@@ -77,8 +77,8 @@
 1. **[Ho Tin]** GitHub erklären
 1. **[Ho Tin]** BurnDown Chart abklären was noch fehlt
 1. **[Ho Tin]** DailyScrum - ungefähre Zeit einbeziehen
-1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 04 (jeder für sich) 
-1. **[Ho Tin]** Alle Dateien von 27.11.17 auf GitHub uploaden
+1. **[Marko/Besar/Ho Tin/Johannes]** ~~Lesson Learnend Tag 04 (jeder für sich)~~
+1. **[Ho Tin]** ~~Alle Dateien von 27.11.17 auf GitHub uploaden~~
 
 #### 04.12.2017 (Sprint 5)
 
