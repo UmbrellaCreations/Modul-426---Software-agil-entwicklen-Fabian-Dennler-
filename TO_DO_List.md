@@ -146,8 +146,8 @@ Keine
 1. Alle Dateien von 20.11.17 auf GitHub uploaden
 
 #### 27.11.2017 (Sprint 4)
-1. Task 1
-1. Task 1
+1. Akzeptanzkriterien angepasst
+1. 2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))
 1. Task 1
 
 #### 04.12.2017 (Sprint 5)
