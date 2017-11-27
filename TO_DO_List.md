@@ -71,6 +71,7 @@
 1. **[]** 2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))
 1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 04 (jeder für sich) 
+1. **[Ho Tin]** Alle Dateien von 27.11.17 auf GitHub uploaden
 
 #### 04.12.2017 (Sprint 5)
 
