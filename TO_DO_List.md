@@ -4,7 +4,7 @@
 | 1        | 08        | 00         | 08    |
 | 2        | 14        | 03         | 11    |
 | 3        | 18        | 07         | 11    |
-| 4        | 11        | 10         | 01    |
+| 4        | 10        | 08         | 02    |
 | 5        | xx        | xx         | xx    |
 
 
@@ -59,7 +59,6 @@
 
 #### 27.11.2017 (Sprint 4)
 1. **[Ho Tin]** Ordner aufräumen
-1. **[Marko]** Mock Up erstellen für login.php & list.php
 1. **[Besar/Johannes]** Datenbank mit Liste verknüpfen und editierbar
 1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
 1. **[Ho Tin]** Datensätze (Zitaten) hinzufügen
