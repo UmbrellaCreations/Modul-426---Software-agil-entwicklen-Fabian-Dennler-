@@ -68,7 +68,7 @@
 1. **[]** Lieblingszitate können geliked werden
 1. **[]** Geburtstag der Autoren anzeigen
 1. **[]** Anzahl Zitate und Autoren einblenden
-1. **[]** Automatisiertes testing der Funktionen implementieren
+1. **[]** Automatisiertes testing der Funktionen implementieren (Log In)
 1. **[Marko/Besar/Ho Tin]** ~~2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))~~
 1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 04 (jeder für sich) 
