@@ -52,6 +52,7 @@
 1. **[]** Lieblingszitate können geliked werden
 1. **[]** Geburtstag der Autoren anzeigen
 1. **[]** Anzahl Zitate und Autoren einblenden
+1. **[]** Zitatliste, Author & Geburtsdatum vom Author einfügen
 1. **[Marko/Besar/Ho Tin/Johannes]** ~~Lesson Learnend Tag 03 (jeder für sich)~~
 1. **[Ho Tin]** ~~Lesson Learned & Verbersserungvorschlag (Team) Dokument erstellen~~
 1. **[Ho Tin]** ~~GitHub ToDo Liste/Burndown Chart aktualisieren~~
