@@ -59,7 +59,7 @@
 
 #### 27.11.2017 (Sprint 4)
 1. **[Ho Tin]** Ordner aufräumen
-1. **[Besar/Johannes]** Datenbank mit Liste verknüpfen und editierbar
+1. **[Besar/Johannes]** ~~Datenbank mit Liste verknüpfen und löschen/hinzufügen~~
 1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
 1. **[]** Datensätze (Zitaten) hinzufügen
 1. **[Ho Tin]** Sekräterin Account erstellen für Zitate erstellen und bearbeiten
