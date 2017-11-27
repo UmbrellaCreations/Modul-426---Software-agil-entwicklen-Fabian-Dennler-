@@ -4,7 +4,7 @@
 | 1        | 08        | 00         | 08    |
 | 2        | 14        | 03         | 11    |
 | 3        | 18        | 07         | 11    |
-| 4        | 13        | 11         | 02    |
+| 4        | 14        | 10         | 04    |
 | 5        | xx        | xx         | xx    |
 
 
@@ -59,6 +59,7 @@
 
 #### 27.11.2017 (Sprint 4)
 1. **[Ho Tin]** Ordner aufräumen
+1. **[Ho Tin]** ~~Zitaten Info (Notiz) mit zusätzlichen Daten angelegt~~
 1. **[Besar/Johannes]** ~~Datenbank mit Liste verknüpfen und löschen/hinzufügen~~
 1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
 1. **[]** Datensätze (Zitaten) hinzufügen
