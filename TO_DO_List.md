@@ -4,7 +4,7 @@
 | 1        | 08        | 00         | 08    |
 | 2        | 14        | 03         | 11    |
 | 3        | 18        | 07         | 11    |
-| 4        | 15        | 11         | 04    |
+| 4        | 16        | 11         | 05    |
 | 5        | xx        | xx         | xx    |
 
 
@@ -62,7 +62,7 @@
 1. **[Ho Tin]** ~~Zitaten Info (Notiz) mit zusätzlichen Daten angelegt~~
 1. **[Besar/Johannes]** ~~Datenbank mit Liste verknüpfen und löschen/hinzufügen~~
 1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
-1. **[]** Datensätze (Zitaten) hinzufügen
+1. **[Besar]** ~~Datensätze (Zitaten) hinzufügen~~
 1. **[Ho Tin]** Sekräterin Account erstellen für Zitate erstellen und bearbeiten
 1. **[]** Zitatliste, Author & Geburtsdatum vom Author einfügen
 1. **[]** Statistik der Anzahl Hits pro Zitat
@@ -70,6 +70,7 @@
 1. **[]** Geburtstag der Autoren anzeigen
 1. **[]** Anzahl Zitate und Autoren einblenden
 1. **[]** Automatisiertes testing der Funktionen implementieren (Log In)
+1. **[]** Zitatwiederholung verhindern
 1. **[Marko/Besar/Ho Tin]** ~~2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))~~
 1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 04 (jeder für sich) 
