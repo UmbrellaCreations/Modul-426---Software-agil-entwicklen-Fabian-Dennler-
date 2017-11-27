@@ -58,14 +58,20 @@
 1. **[Ho Tin]** ~~Alle Dateien von 20.11.17 auf GitHub uploaden~~
 
 #### 27.11.2017 (Sprint 4)
-1. Task 1
-1. Task 1
-1. Task 1
+1. **[]** Mock Up erstellen für login.php & list.php
+1. **[Besar/Johannes]** Datenbank mit Liste verknüpfen und editierbar
+1. **[]** Datensätze (Zitaten) hinzufügen
+1. **[]** Sekräterin Account erstellen für Zitate erstellen und bearbeiten
+1. **[]** Statistik der Anzahl Hits pro Zitat
+1. **[]** Lieblingszitate können geliked werden
+1. **[]** Geburtstag der Autoren anzeigen
+1. **[]** Anzahl Zitate und Autoren einblenden
+1. **[]** 2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))
+1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 04 (jeder für sich) 
 
 #### 04.12.2017 (Sprint 5)
-1. Task 1
-1. Task 1
+
 1. Task 1
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 05 (jeder für sich) 
 
