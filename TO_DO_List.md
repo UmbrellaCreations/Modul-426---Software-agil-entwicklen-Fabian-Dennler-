@@ -61,13 +61,13 @@
 1. **[Ho Tin]** Ordner aufräumen
 1. **[Besar/Johannes]** Datenbank mit Liste verknüpfen und editierbar
 1. **[Marko]** ~~Akzeptanzkriterien angepasst~~
-1. **[Ho Tin]** Datensätze (Zitaten) hinzufügen
+1. **[]** Datensätze (Zitaten) hinzufügen
 1. **[Ho Tin]** Sekräterin Account erstellen für Zitate erstellen und bearbeiten
 1. **[]** Statistik der Anzahl Hits pro Zitat
 1. **[]** Lieblingszitate können geliked werden
 1. **[]** Geburtstag der Autoren anzeigen
 1. **[]** Anzahl Zitate und Autoren einblenden
-1. **[Marko]** ~~2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))~~
+1. **[Marko/Besar/Ho Tin]** ~~2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))~~
 1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 04 (jeder für sich) 
 1. **[Ho Tin]** Alle Dateien von 27.11.17 auf GitHub uploaden
@@ -75,7 +75,9 @@
 #### 04.12.2017 (Sprint 5)
 
 1. Task 1
+1. Task 1
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 05 (jeder für sich) 
+1. **[Ho Tin]** Die Akuellsten Dateien auf GitHub uploaden für die Benotung
 
 
 # Remaining
