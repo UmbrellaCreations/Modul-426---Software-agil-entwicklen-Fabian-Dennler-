@@ -118,9 +118,19 @@ Keine
 
 
 #### 27.11.2017 (Sprint 4)
-1. Task 1
-1. Task 1
-1. Task 1
+1. Sekräterin Account erstellen für Zitate erstellen und bearbeiten
+1. Zitatliste, Author & Geburtsdatum vom Author einfügen
+1. Statistik der Anzahl Hits pro Zitat
+1. Lieblingszitate können geliked werden
+1. Geburtstag der Autoren anzeigen
+1. Anzahl Zitate und Autoren einblenden
+1. Automatisiertes testing der Funktionen implementieren (Log In)
+1. Zitatwiederholung verhindern
+1. Code Style Guide fragen was besser machen da wir 4/5 Richtlinien eingehalten haben
+1. 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
+1. GitHub erklären
+1. BurnDown Chart abklären was noch fehlt
+1. DailyScrum - ungefähre Zeit einbeziehen
 
 #### 04.12.2017 (Sprint 5)
 1. Task 1
@@ -168,7 +178,12 @@ Keine
 #### 27.11.2017 (Sprint 4)
 1. Akzeptanzkriterien angepasst
 1. 2/3 CSS erstellen und anpassen (für Frontpage/Login(index.php/login.php))
-1. Task 1
+1. Ordner aufräumen
+1. Zitaten Info (Notiz) mit zusätzlichen Daten angelegt
+1. Datenbank mit Liste verknüpfen und löschen/hinzufügen
+1. Datensätze (Zitaten) hinzufügen
+1. Lesson Learnend Tag 04 (jeder für sich)
+1. Alle Dateien von 27.11.17 auf GitHub uploaden
 
 #### 04.12.2017 (Sprint 5)
 1. Task 1
