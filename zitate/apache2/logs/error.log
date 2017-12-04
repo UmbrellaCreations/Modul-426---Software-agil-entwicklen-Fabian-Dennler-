@@ -1,5 +1,7 @@
-[Mon Dec 04 11:10:44.861224 2017] [mpm_winnt:notice] [pid 3316:tid 384] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Mon Dec 04 11:10:44.861224 2017] [mpm_winnt:notice] [pid 3316:tid 384] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Mon Dec 04 11:10:44.861224 2017] [core:notice] [pid 3316:tid 384] AH00094: Command line: 'C:\\Users\\vmadmin\\Documents\\GitHub\\Modul-426---Software-agil-entwicklen-Fabian-Dennler-\\zitate/apache2/bin/httpd_usbwv8.exe -d C:/Users/vmadmin/Documents/GitHub/Modul-426---Software-agil-entwicklen-Fabian-Dennler-/zitate/apache2'
-[Mon Dec 04 11:10:44.862224 2017] [mpm_winnt:notice] [pid 3316:tid 384] AH00418: Parent: Created child process 2836
-[Mon Dec 04 11:10:45.129250 2017] [mpm_winnt:notice] [pid 2836:tid 400] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 04 11:16:25.922325 2017] [mpm_winnt:notice] [pid 4380:tid 384] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Dec 04 11:16:25.923325 2017] [mpm_winnt:notice] [pid 4380:tid 384] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Dec 04 11:16:25.923325 2017] [core:notice] [pid 4380:tid 384] AH00094: Command line: 'C:\\Users\\vmadmin\\Documents\\GitHub\\Modul-426---Software-agil-entwicklen-Fabian-Dennler-\\zitate/apache2/bin/httpd_usbwv8.exe -d C:/Users/vmadmin/Documents/GitHub/Modul-426---Software-agil-entwicklen-Fabian-Dennler-/zitate/apache2'
+[Mon Dec 04 11:16:25.923325 2017] [mpm_winnt:notice] [pid 4380:tid 384] AH00418: Parent: Created child process 5012
+[Mon Dec 04 11:16:26.204353 2017] [mpm_winnt:notice] [pid 5012:tid 400] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 04 11:21:43.795107 2017] [:error] [pid 5012:tid 912] [client ::1:60772] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in C:\\Users\\vmadmin\\Documents\\GitHub\\Modul-426---Software-agil-entwicklen-Fabian-Dennler-\\zitate\\root\\Zitate\\files\\data.php on line 49, referer: http://localhost:8080/Zitate/index.php
+[Mon Dec 04 11:27:53.593081 2017] [:error] [pid 5012:tid 936] [client ::1:61407] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in C:\\Users\\vmadmin\\Documents\\GitHub\\Modul-426---Software-agil-entwicklen-Fabian-Dennler-\\zitate\\root\\Zitate\\files\\data.php on line 49, referer: http://localhost:8080/Zitate/index.php

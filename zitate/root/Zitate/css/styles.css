@@ -10,7 +10,7 @@ body {
 }
 
 .bg {
-    background: url('../Background/earth.jpg');
+    background: url('../img/earth.jpg');
     background-repeat: no-repeat;               
     width: auto;
     height: 100vh;
@@ -22,11 +22,11 @@ body {
 
 .content {
     letter-spacing: 0.2em;
-    padding:20px 30px;
-    width: 50%;
+    padding: 20px 30px;
+    width: 70%;
     height: auto;
-    margin-top: 15%;
-    margin-left: 25%;
+    margin-top: 10%;
+    margin-left: 15%;
     margin-right: auto;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.4);
@@ -44,8 +44,10 @@ h2 {
 }
 
 .footer {
+	position: absolute;
     font-size: 12px;
     margin-top: -30px;
+	bottom: 0%;
     color: black;
     font-weight: bold;
     position: absolute;
@@ -133,6 +135,10 @@ img.avatar {
     right: 0px;
     bottom: 0px;
     letter-spacing: 3px;
+}
+
+.likeBtn {
+	margin-top: -38px;
 }
 
 span.psw {
