@@ -50,10 +50,11 @@
 	loadData();
 	function loadData() {
 		$( ".likeBtn" ).bind( "click", function() {
-			alert( "User clicked on 'likeBtn.'" + $( this ).attr("data"));
+			$(this).hide();
 			$.get( "files/data.php", { adLike: $( this ).attr("data") } )
 				.done(function( data ) {
-					//loadData();
+					loadData();
+					
 			});
 			});
 			$.getJSON("files/data.php")
