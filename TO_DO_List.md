@@ -95,7 +95,7 @@
 1. **[]** [20min] / [min] Lieblingszitate können geliked werden /////
 1. **[]** [30min] / [min] Statistik der Anzahl Hits pro Zitat ////
 1. **[Marko/Besar/Ho Tin/Johannes]** [20min] / [min] Lesson Learnend Tag 05 (jeder für sich) 
-1. **[Ho Tin]** [30min] / [min] Team Lessons Learnend fertigstellen
+1. **[Ho Tin]** [30min] / [40min] Team Lessons Learnend fertigstellen
 
 
 # Remaining
