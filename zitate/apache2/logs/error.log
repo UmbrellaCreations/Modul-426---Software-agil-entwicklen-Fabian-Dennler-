@@ -1,5 +1,5 @@
-[Mon Dec 04 09:11:55.276577 2017] [mpm_winnt:notice] [pid 4780:tid 384] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Mon Dec 04 09:11:55.276577 2017] [mpm_winnt:notice] [pid 4780:tid 384] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Mon Dec 04 09:11:55.276577 2017] [core:notice] [pid 4780:tid 384] AH00094: Command line: 'C:\\Users\\vmadmin\\Documents\\GitHub\\Modul-426---Software-agil-entwicklen-Fabian-Dennler-\\zitate/apache2/bin/httpd_usbwv8.exe -d C:/Users/vmadmin/Documents/GitHub/Modul-426---Software-agil-entwicklen-Fabian-Dennler-/zitate/apache2'
-[Mon Dec 04 09:11:55.278577 2017] [mpm_winnt:notice] [pid 4780:tid 384] AH00418: Parent: Created child process 4952
-[Mon Dec 04 09:11:55.528602 2017] [mpm_winnt:notice] [pid 4952:tid 400] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 04 10:13:16.818959 2017] [mpm_winnt:notice] [pid 1412:tid 776] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Dec 04 10:13:16.818959 2017] [mpm_winnt:notice] [pid 1412:tid 776] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Dec 04 10:13:16.818959 2017] [core:notice] [pid 1412:tid 776] AH00094: Command line: 'C:\\Users\\Johannes Miss\\Documents\\Modul-426---Software-agil-entwicklen-Fabian-Dennler-\\zitate/apache2/bin/httpd_usbwv8.exe -d C:/Users/Johannes Miss/Documents/Modul-426---Software-agil-entwicklen-Fabian-Dennler-/zitate/apache2'
+[Mon Dec 04 10:13:16.819962 2017] [mpm_winnt:notice] [pid 1412:tid 776] AH00418: Parent: Created child process 8496
+[Mon Dec 04 10:13:17.172912 2017] [mpm_winnt:notice] [pid 8496:tid 4] AH00354: Child: Starting 64 worker threads.
