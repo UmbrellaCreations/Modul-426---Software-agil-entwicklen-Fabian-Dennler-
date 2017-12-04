@@ -93,7 +93,7 @@
 1. **[Ho Tin]** [5min] / [min] Sekräterin Account erstellen für Zitate erstellen und bearbeiten
 1. **[Marko/Besar/Johannes]** [15min] / [min] Developer Branch erstellen + updaten
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 05 (jeder für sich) 
-1. **[Ho Tin]** BurnDown Chart abklären was noch fehlt
+1. **[Ho Tin]** [10min] / [5min] ~~BurnDown Chart abklären was noch fehlt~~
 1. **[]** Code Style Guide fragen was besser machen da wir 4/5 Richtlinien eingehalten haben
 
 
