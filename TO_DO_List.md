@@ -5,7 +5,7 @@
 | 2        | 14        | 03         | 11    |
 | 3        | 18        | 07         | 11    |
 | 4        | 20        | 13         | 07    |
-| 5        | 15        | xx         | xx    |
+| 5        | 14        | xx         | xx    |
 
 
 
@@ -85,7 +85,6 @@
 1. **[]** 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[Ho Tin]** GitHub erklären
 1. **[Ho Tin]** BurnDown Chart abklären was noch fehlt
-1. **[Ho Tin]** DailyScrum - ungefähre Zeit einbeziehen
 1. **[]** Lieblingszitate können geliked werden
 1. **[]** Geburtstag der Autoren anzeigen
 1. **[]** Anzahl Zitate und Autoren einblenden
@@ -95,7 +94,7 @@
 1. **[]** Statistik der Anzahl Hits pro Zitat
 1. **[]** Zitatliste, Author & Geburtsdatum vom Author einfügen
 1. **[Ho Tin]** Sekräterin Account erstellen für Zitate erstellen und bearbeiten
-1. **[Marko/Besar/Johannes]** [15min] Developer Branch erstellen + updaten
+1. **[Marko/Besar/Johannes]** [15min] / [min] Developer Branch erstellen + updaten
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 05 (jeder für sich) 
 1. **[Ho Tin]** Die Akuellsten Dateien auf GitHub uploaden für die Benotung
 
