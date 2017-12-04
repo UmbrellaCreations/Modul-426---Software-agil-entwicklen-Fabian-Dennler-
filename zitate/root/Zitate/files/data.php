@@ -41,7 +41,7 @@ if(isset($_GET["adLike"])) {
 	//$adLike = "SET likes = likes + 1 WHERE idZitat = '$rowToLike'";
 	$result = $mysqli->query($query);
 	
-	$query = sprintf("SELECT likes FROM `zitat`");
+	$query = sprintf("SELECT likes FROM `zitat` WHERE idZitat = '$rowToLike'");
 	
 }
 
