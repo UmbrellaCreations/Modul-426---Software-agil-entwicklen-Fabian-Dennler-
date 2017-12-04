@@ -29,7 +29,7 @@ if(isset($_GET["countQuote"])) {
 }
 
 if(isset($_GET["countAutors"])) {
-	$query = sprintf("SELECT COUNT(autor) as AnzahlAutoren FROM `zitat` GROUP BY `autor`");
+	$query = sprintf("SELECT COUNT(autor) as AnzahlAutoren FROM `zitat`");
 }
 
 if(isset($_GET["adLike"])) {
