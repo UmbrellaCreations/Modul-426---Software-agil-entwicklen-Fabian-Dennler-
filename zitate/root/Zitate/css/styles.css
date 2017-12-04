@@ -1,0 +1,149 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	display: block;
+	width: auto;
+    height: 100%;
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;   
+}
+
+.bg {
+    background: url('../Background/earth.jpg');
+    background-repeat: no-repeat;               
+    width: auto;
+    height: 100vh;
+    background-position: center center;    
+    background-size: cover;
+    background-attachment: fixed;
+    opacity:0.8;
+}
+
+.content {
+    letter-spacing: 0.2em;
+    padding:20px 30px;
+    width: 50%;
+    height: auto;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: auto;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+	font-size: 200%;
+    color:black;
+}
+
+h2 {
+	font-size: 185%;
+    color:black;
+    font-style:italic;
+}
+
+.footer {
+    font-size: 12px;
+    padding-top: 41%;
+    color: black;
+    font-weight: bold;
+}
+
+
+/* Formular */
+form {
+    border: 3px solid #f1f1f1;
+	margin-top: 150px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 16px;
+}
+
+.autor {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.anzahl, .birthday, .like {
+    font-size: 80%;
+}
+
+.anzahl {
+    left: 38%;
+    bottom: 1%;
+    position: absolute;
+    letter-spacing: 3px;
+}
+
+.birthday {
+    position: absolute;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    opacity: 0.6;
+    width: 140px;
+    height: 40px;
+    letter-spacing: normal;
+    padding-top: 12px;
+    left: 0px;
+    bottom: 0px;
+    letter-spacing: 3px;
+}
+
+.like {
+    position: absolute;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    opacity: 0.6;
+    width: 140px;
+    height: 40px;
+    letter-spacing: normal;
+    padding-top: 12px;
+    right: 0px;
+    bottom: 0px;
+    letter-spacing: 3px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+}
