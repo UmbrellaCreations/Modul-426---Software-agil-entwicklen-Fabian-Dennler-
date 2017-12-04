@@ -49,12 +49,12 @@
     <script>	
 	loadData();
 	function loadData() {
+		$( ".likeBtn" ).show();
 		$( ".likeBtn" ).bind( "click", function() {
 			$(this).hide();
 			$.get( "files/data.php", { adLike: $( this ).attr("data") } )
 				.done(function( data ) {
-					loadData();
-					
+					$( "#nrOfLikes" ).text(data[0].likes);
 			});
 			});
 			$.getJSON("files/data.php")
@@ -81,6 +81,7 @@
 					 $( "#autor" ).text(data[0].autor);
 					 $( "#nrOfLikes" ).text(data[0].likes);
 					 $( "#birthdayAutor" ).text(data[0].GeburtstagAutor);
+					 $( ".likeBtn" ).show();
 					});
 						$.getJSON("files/data.php?countQuote")
 				.done(function( data ) {
