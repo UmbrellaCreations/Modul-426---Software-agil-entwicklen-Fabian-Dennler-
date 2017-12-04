@@ -94,7 +94,7 @@
 1. **[Besar/Fabian]** [50min] / [10min] ~~Zitatliste, Author & Geburtsdatum vom Author einfügen~~
 1. **[BesarJohannes]** [20min] / [60min] ~~Lieblingszitate können geliked werden~~
 1. **[Johannes]** [30min] / [40min] ~~Statistik der Anzahl Hits pro Zitat~~
-1. **[Marko/Besar/Ho Tin/Johannes]** [20min] / [min] Lesson Learnend Tag 05 (jeder für sich) 
+1. **[Marko/Besar/Ho Tin/Johannes]** [20min] / [15min] ~~Lesson Learnend Tag 05 (jeder für sich)~~
 1. **[Ho Tin]** [30min] / [40min] ~~Team Lessons Learnend fertigstellen~~
 
 
@@ -133,8 +133,8 @@ Keine
 1. DailyScrum - ungefähre Zeit einbeziehen
 
 #### 04.12.2017 (Sprint 5)
-1. **[]** [80min] / [min] Automatisiertes testing der Funktionen implementieren (Log In, Insert, Delete)
-1. **[]** [35min] / [min] Zitatwiederholung verhindern
+1. Automatisiertes testing der Funktionen implementieren (Log In, Insert, Delete)
+1. Zitatwiederholung verhindern
 
 
 # Dones
@@ -185,18 +185,18 @@ Keine
 1. Alle Dateien von 27.11.17 auf GitHub uploaden
 
 #### 04.12.2017 (Sprint 5)
-1. **[Besar]** [90min] / [10min] ~~3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))~~
-1. **[Besar/Johannes]** [5min] / [10min] ~~Geburtstag der Autoren anzeigen~~
-1. **[Besar/Johannes]** [15min] / [15min] ~~Anzahl Zitate und Autoren einblenden~~
-1. **[Besar/Johannes]** [5min] / [10min] ~~Sekräterin Account erstellen für Zitate erstellen und bearbeiten~~
-1. **[Marko/Besar/Johannes/Ho Tin]** [15min] / [120min] ~~Developer Branch erstellen + updaten~~
-1. **[Ho Tin]** [10min] / [5min] ~~BurnDown Chart abklären was noch fehlt und updaten~~
-1. **[Marko]** [15min] / [20min] ~~10 Neue Zitate heraussuchen~~
-1. **[Besar/Fabian]** [50min] / [10min] ~~Zitatliste, Author & Geburtsdatum vom Author einfügen~~
-1. **[BesarJohannes]** [20min] / [60min] ~~Lieblingszitate können geliked werden~~
-1. **[Johannes]** [30min] / [40min] ~~Statistik der Anzahl Hits pro Zitat~~
-1. **[Marko/Besar/Ho Tin/Johannes]** [20min] / [15min] ~~Lesson Learnend Tag 05 (jeder für sich) ~~
-1. **[Ho Tin]** [30min] / [40min] ~~Team Lessons Learnend fertigstellen~~
+1. 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
+1. Geburtstag der Autoren anzeigen
+1. Anzahl Zitate und Autoren einblenden
+1. Sekräterin Account erstellen für Zitate erstellen und bearbeiten
+1. Developer Branch erstellen + updaten
+1. BurnDown Chart abklären was noch fehlt und updaten
+1. 10 Neue Zitate heraussuchen
+1. Zitatliste, Author & Geburtsdatum vom Author einfügen
+1. Lieblingszitate können geliked werden
+1. Statistik der Anzahl Hits pro Zitat
+1. Lesson Learnend Tag 05 (jeder für sich)
+1. Team Lessons Learnend fertigstellen
 
 # Hints
 Markdown Syntax
