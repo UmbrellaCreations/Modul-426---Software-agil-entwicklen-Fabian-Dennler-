@@ -11,8 +11,8 @@
 	if(isset($_POST['del'])) {
 		deleteQuote($_POST['del'], $link);
 		$_POST = array();
-	} else if(isset($_POST['inputZitat']) && isset($_POST['inputAutor'])) {
-		insertQuote($_POST['inputZitat'], $_POST['inputAutor'], $link);
+	} else if(isset($_POST['inputZitat']) && isset($_POST['inputAutor']) && isset($_POST['gebAutor'])) {
+		insertQuote($_POST['inputZitat'], $_POST['inputAutor'], $_POST['gebAutor'], $link);
 		$_POST = array();
 	}
 	
@@ -60,6 +60,7 @@ function deleteTest() {
 			<form action = "liste.php" method = "post">
 			  <input type="text" id="inputZitat" name = "inputZitat" placeholder="Zitat...">
 			  <input type="text" id="inputAutor" name = "inputAutor" placeholder="Autor...">
+			  <input type="text" id="gebAutor" name="gebAutor" placeholder="Geburtsdatum">
 			  <input type="submit"  value="add" class="addBtn">
 			</form>
 		</div>
@@ -74,7 +75,7 @@ function deleteTest() {
 				.done(function( data ) {
 					var items = [];
 					$.each( data, function(key, val) {
-					  items.push( "<li id='" + val.idZitat + "'>" + val.quote + "<br>" + val.autor + "<input type='button' name='delete' class='delBtn' value='X' data='"+val.idZitat+"'/>" + "</li>" );
+					  items.push( "<li id='" + val.idZitat + "'>" + val.quote + "<br>" + val.autor + "<br>" + val.GeburtstagAutor + "<input type='button' name='delete' class='delBtn' value='X' data='"+val.idZitat+"'/>" + "</li>" );
 					});
 					  $( "<ul/>", {
 						"class": "my-new-list",

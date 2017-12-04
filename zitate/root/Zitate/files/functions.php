@@ -15,13 +15,14 @@
 	}
 
 	
-	function insertQuote($quote, $autor, $link) {		
+	function insertQuote($quote, $autor, $geb, $link) {		
 		$zitat = mysqli_real_escape_string($link,$quote);
 		$autor = mysqli_real_escape_string($link,$autor);
+		$geb = mysqli_real_escape_string($link,$geb);
 		
-		if (($zitat != "" ) && ($autor != "" )){
+		if (($zitat != "" ) && ($autor != "" ) && ($geb != "")){
 			// Datenbank-Abfrage
-			$addQuote = "INSERT INTO zitat (`quote` ,`autor`) VALUES ('$zitat', '$autor')";
+			$addQuote = "INSERT INTO zitat (`quote` ,`autor`,`GeburtstagAutor`) VALUES ('$zitat', '$autor', '$geb')";
 			$res = mysqli_query ($link, $addQuote) or die('Fehler mysqli_query(): ' . mysqli_error($link));
 			return mysql_insert_id();
 		};
