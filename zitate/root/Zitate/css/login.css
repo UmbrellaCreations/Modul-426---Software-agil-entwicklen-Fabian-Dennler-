@@ -1,0 +1,52 @@
+.bg {
+    padding-top:12%;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    background: url('../img/sky1.jpg');
+    background-repeat: no-repeat;               
+    width: auto;
+    height: auto;
+    background-position: center center;    
+    background-size: cover;
+    background-attachment: fixed;
+}
+ 
+label {
+    font-weight:bold;
+    width:100px;
+    font-size:14px;
+    color:white;
+}
+ 
+.box {
+    border:#040303 solid 1px;
+    opacity:0.8;
+}
+
+.loginTitle {
+    background-color: #333333; 
+    color: #FFFFFF; 
+    padding: 3px;
+}
+
+input {
+    width: 100%;
+}
+ 
+.loginBox {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 30px;
+}
+
+.loginBtn {
+    width: 30%;
+    margin-left: 35%;
+}
+
+.backToPage {
+	color: white;
+	font-style: italic;
+}
