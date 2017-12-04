@@ -39,6 +39,10 @@ if(isset($_GET["adLike"])) {
 	// Datenbank Zitat löschen query
 	$query = sprintf("UPDATE zitat SET likes = likes + 1 WHERE idZitat = '$rowToLike'");
 	//$adLike = "SET likes = likes + 1 WHERE idZitat = '$rowToLike'";
+	$result = $mysqli->query($query);
+	
+	$query = sprintf("SELECT likes FROM `zitat`");
+	
 }
 
 
