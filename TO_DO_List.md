@@ -84,17 +84,17 @@
 
 1. **[]** [90min] / [min] 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
 1. **[]** [20min] / [min] Lieblingszitate können geliked werden
-1. **[]** [20min] / [min] Geburtstag der Autoren anzeigen
-1. **[]** [15min] / [min] Anzahl Zitate und Autoren einblenden
+1. **[Besar/Johannes]** [5min] / [10min] ~~Geburtstag der Autoren anzeigen~~
+1. **[Besar/Johannes]** [15min] / [min] ~~Anzahl Zitate und Autoren einblenden~~
 1. **[]** [80min] / [min] Automatisiertes testing der Funktionen implementieren (Log In)
 1. **[]** [35min] / [min] Zitatwiederholung verhindern
 1. **[]** [30min] / [min] Statistik der Anzahl Hits pro Zitat
 1. **[]** [50min] / [min] Zitatliste, Author & Geburtsdatum vom Author einfügen
 1. **[Ho Tin]** [5min] / [min] Sekräterin Account erstellen für Zitate erstellen und bearbeiten
-1. **[Marko/Besar/Johannes]** [15min] / [min] Developer Branch erstellen + updaten
-1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 05 (jeder für sich) 
+1. **[Marko/Besar/Johannes]** [15min] / [120min] ~~Developer Branch erstellen + updaten~~
+1. **[Marko/Besar/Ho Tin/Johannes]** [20min] / [min] Lesson Learnend Tag 05 (jeder für sich) 
 1. **[Ho Tin]** [10min] / [5min] ~~BurnDown Chart abklären was noch fehlt~~
-1. **[]** Code Style Guide fragen was besser machen da wir 4/5 Richtlinien eingehalten haben
+1. **[Marko]** [15min] / [min] Neue Zitate heraussuchen
 
 
 # Remaining
