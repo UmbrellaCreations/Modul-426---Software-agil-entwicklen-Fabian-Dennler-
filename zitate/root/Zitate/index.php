@@ -28,6 +28,7 @@
 					<div class="anzahlZitate">
 						<p>Anzahl Zitate:</p>
 						<p id="nrOfQuotes">!!!Anzahl Zitate!!!</p>
+						<p> | </p>
 						<p>Anzahl Autoren:</p>
 						<p id="nrOfAutors">!!!Anzahl Autoren!!!</p>
 					</div>

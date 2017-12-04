@@ -122,6 +122,14 @@ img.avatar {
     letter-spacing: 3px;
 }
 
+.anzahlZitate {
+	display: inline-block;
+}
+
+.anzahlZitate p {
+	display: inline-block;
+}
+
 .like {
     position: absolute;
     text-align: center;
