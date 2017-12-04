@@ -91,9 +91,9 @@
 1. **[Marko/Besar/Johannes/Ho Tin]** [15min] / [120min] ~~Developer Branch erstellen + updaten~~
 1. **[Ho Tin]** [10min] / [5min] ~~BurnDown Chart abklären was noch fehlt und updaten~~
 1. **[Marko]** [15min] / [20min] ~~10 Neue Zitate heraussuchen~~
+1. **[Besar/Fabian]** [50min] / [10min] ~~Zitatliste, Author & Geburtsdatum vom Author einfügen~~
 1. **[]** [20min] / [min] Lieblingszitate können geliked werden /////
 1. **[]** [30min] / [min] Statistik der Anzahl Hits pro Zitat ////
-1. **[]** [50min] / [min] Zitatliste, Author & Geburtsdatum vom Author einfügen ////
 1. **[Marko/Besar/Ho Tin/Johannes]** [20min] / [min] Lesson Learnend Tag 05 (jeder für sich) 
 1. **[Ho Tin]** [30min] / [min] Team Lessons Learnend fertigstellen
 
