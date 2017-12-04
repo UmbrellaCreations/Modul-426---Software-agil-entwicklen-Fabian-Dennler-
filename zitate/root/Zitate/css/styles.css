@@ -96,6 +96,14 @@ img.avatar {
     padding-bottom: 40px;
 }
 
+.views {
+	display: inline-block;
+}
+
+.views p {
+	display: inline-block;
+}
+
 .anzahl, .birthday, .like {
     font-size: 80%;
 }
