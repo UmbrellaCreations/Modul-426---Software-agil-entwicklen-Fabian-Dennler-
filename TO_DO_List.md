@@ -65,6 +65,7 @@
 1. **[Besar]** ~~Datensätze (Zitaten) hinzufügen~~
 1. **[Ho Tin]** Sekräterin Account erstellen für Zitate erstellen und bearbeiten
 1. **[]** Zitatliste, Author & Geburtsdatum vom Author einfügen
+1. **[]** Developer Branch erstellen + updaten
 1. **[]** Statistik der Anzahl Hits pro Zitat
 1. **[]** Lieblingszitate können geliked werden
 1. **[]** Geburtstag der Autoren anzeigen
