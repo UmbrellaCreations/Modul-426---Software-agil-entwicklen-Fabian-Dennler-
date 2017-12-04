@@ -85,7 +85,7 @@
 1. **[Besar]** [90min] / [10min] ~~3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))~~
 1. **[Besar/Johannes]** [5min] / [10min] ~~Geburtstag der Autoren anzeigen~~
 1. **[Besar/Johannes]** [15min] / [15min] ~~Anzahl Zitate und Autoren einblenden~~
-1. **[]** [80min] / [min] Automatisiertes testing der Funktionen implementieren (Log In)
+1. **[]** [80min] / [min] Automatisiertes testing der Funktionen implementieren (Log In, Insert, Delete)
 1. **[]** [35min] / [min] Zitatwiederholung verhindern
 1. **[Besar/Johannes]** [5min] / [10min] ~~Sekräterin Account erstellen für Zitate erstellen und bearbeiten~~
 1. **[Marko/Besar/Johannes/Ho Tin]** [15min] / [120min] ~~Developer Branch erstellen + updaten~~
