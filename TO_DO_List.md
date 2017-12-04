@@ -82,19 +82,20 @@
 
 #### 04.12.2017 (Sprint 5)
 
-1. **[]** [90min] / [min] 3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))
-1. **[]** [20min] / [min] Lieblingszitate können geliked werden
+1. **[Besar]** [90min] / [10min] ~~3/3 CSS erstellen und anpassen (für Frontpage/Login/Liste(index.php/login.php/list.php))~~
 1. **[Besar/Johannes]** [5min] / [10min] ~~Geburtstag der Autoren anzeigen~~
 1. **[Besar/Johannes]** [15min] / [min] ~~Anzahl Zitate und Autoren einblenden~~
 1. **[]** [80min] / [min] Automatisiertes testing der Funktionen implementieren (Log In)
 1. **[]** [35min] / [min] Zitatwiederholung verhindern
-1. **[]** [30min] / [min] Statistik der Anzahl Hits pro Zitat
-1. **[]** [50min] / [min] Zitatliste, Author & Geburtsdatum vom Author einfügen
-1. **[Ho Tin]** [5min] / [min] Sekräterin Account erstellen für Zitate erstellen und bearbeiten
-1. **[Marko/Besar/Johannes]** [15min] / [120min] ~~Developer Branch erstellen + updaten~~
+1. **[Besar/Johannes]** [5min] / [10min] ~~Sekräterin Account erstellen für Zitate erstellen und bearbeiten~~
+1. **[Marko/Besar/Johannes/Ho Tin]** [15min] / [120min] ~~Developer Branch erstellen + updaten~~
+1. **[Ho Tin]** [10min] / [5min] ~~BurnDown Chart abklären was noch fehlt und updaten~~
+1. **[Marko]** [15min] / [min] Neue Zitate heraussuchen /////
+1. **[]** [20min] / [min] Lieblingszitate können geliked werden /////
+1. **[]** [30min] / [min] Statistik der Anzahl Hits pro Zitat ////
+1. **[]** [50min] / [min] Zitatliste, Author & Geburtsdatum vom Author einfügen ////
 1. **[Marko/Besar/Ho Tin/Johannes]** [20min] / [min] Lesson Learnend Tag 05 (jeder für sich) 
-1. **[Ho Tin]** [10min] / [5min] ~~BurnDown Chart abklären was noch fehlt~~
-1. **[Marko]** [15min] / [min] Neue Zitate heraussuchen
+1. **[Ho Tin]** [30min] / [min] Team Lessons Learnend fertigstellen
 
 
 # Remaining
