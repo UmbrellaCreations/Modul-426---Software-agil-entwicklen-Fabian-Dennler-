@@ -45,6 +45,19 @@ if(isset($_GET["adLike"])) {
 	
 }
 
+if(isset($_GET["adView"])) {
+	
+	$rowToAddView = $_GET["adView"];
+	
+	// Datenbank Zitat löschen query
+	$query = sprintf("UPDATE zitat SET views = views + 1 WHERE idZitat = '$rowToAddView'");
+	//$adLike = "SET likes = likes + 1 WHERE idZitat = '$rowToLike'";
+	$result = $mysqli->query($query);
+	
+	$query = sprintf("SELECT views FROM `zitat` WHERE idZitat = '$rowToAddView'");
+	
+}
+
 
 //execute query
 

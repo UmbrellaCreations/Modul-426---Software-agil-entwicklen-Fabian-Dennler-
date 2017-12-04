@@ -21,6 +21,11 @@
 						<h2 id="autor">Autor</h2>
 					</div>
 					
+					<div class='views'>
+						<p>Anzahl Views:</p>
+						<p id="views">Views</p>
+					</div>
+					
 					<div class="birthday">
 						<p id="birthdayAutor">xx.xx.xxxx</p>
 					</div>
@@ -65,6 +70,8 @@
 				$( "#autor" ).text(data[0].autor);
 				$( "#nrOfLikes" ).text(data[0].likes);
 				$( "#birthdayAutor" ).text(data[0].GeburtstagAutor);
+				$.get( "files/data.php", { adView: data[0].idZitat } )
+				$( "#views" ).text(data[0].views);
 			});
 			$.getJSON("files/data.php?countQuote")
 			.done(function( data ) {
@@ -82,6 +89,8 @@
 					 $( "#autor" ).text(data[0].autor);
 					 $( "#nrOfLikes" ).text(data[0].likes);
 					 $( "#birthdayAutor" ).text(data[0].GeburtstagAutor);
+					 $.get( "files/data.php", { adView: data[0].idZitat } )
+					 $( "#views" ).text(data[0].views);
 					 $( ".likeBtn" ).show();
 					});
 						$.getJSON("files/data.php?countQuote")
