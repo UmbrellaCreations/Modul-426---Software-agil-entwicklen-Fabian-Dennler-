@@ -5,7 +5,7 @@
 | 2        | 14        | 03         | 11    |
 | 3        | 18        | 07         | 11    |
 | 4        | 20        | 13         | 07    |
-| 5        | 14        | xx         | xx    |
+| 5        | 14        | 02         | xx    |
 
 
 
@@ -90,7 +90,7 @@
 1. **[Besar/Johannes]** [5min] / [10min] ~~Sekräterin Account erstellen für Zitate erstellen und bearbeiten~~
 1. **[Marko/Besar/Johannes/Ho Tin]** [15min] / [120min] ~~Developer Branch erstellen + updaten~~
 1. **[Ho Tin]** [10min] / [5min] ~~BurnDown Chart abklären was noch fehlt und updaten~~
-1. **[Marko]** [15min] / [min] Neue Zitate heraussuchen /////
+1. **[Marko]** [15min] / [20min] ~~10 Neue Zitate heraussuchen~~
 1. **[]** [20min] / [min] Lieblingszitate können geliked werden /////
 1. **[]** [30min] / [min] Statistik der Anzahl Hits pro Zitat ////
 1. **[]** [50min] / [min] Zitatliste, Author & Geburtsdatum vom Author einfügen ////
