@@ -34,7 +34,7 @@
 					
 					<div class="like">
 						<p id="nrOfLikes">!!!Like!!!</p>
-						<input type='button' name='like' class='likeBtn' id='idZitat'/>
+						<input type='button' name='like' value="Like" class='likeBtn' id='idZitat'/>
 					</div>
 				</div>
 			</div>

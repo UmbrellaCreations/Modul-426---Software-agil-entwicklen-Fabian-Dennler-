@@ -138,8 +138,11 @@ img.avatar {
 }
 
 .likeBtn {
-	margin-top: -38px;
-	margin-left: -50px;
+    margin-top: -84px;
+    margin-left: 0px;
+    width: 140px;
+    height: 40px;
+    color: #000;
 }
 
 span.psw {
