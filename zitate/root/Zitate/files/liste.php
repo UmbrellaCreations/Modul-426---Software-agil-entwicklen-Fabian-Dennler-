@@ -1,30 +1,19 @@
 <?php
 	header("Content-Type: text/html; charset=utf-8");
 	include('session.php');
-	
+	require_once('functions.php');
+
 	// Zur Datenbank verbinden, Datenbank auswählen
 	require_once ('../inc/connect.php');
 	//var_dump($_POST);
 	// Delete Zitat
+
 	if(isset($_POST['del'])) {
-		
-		$rowToDelete = mysqli_real_escape_string($link,$_POST['del']);
-		
-		// Datenbank Zitat löschen query
-		$removeQuote = "DELETE from zitat WHERE idZitat = '$rowToDelete'";
-		$res = mysqli_query ($link, $removeQuote) or die('Fehler mysqli_query(): ' . mysqli_error($link));
+		deleteQuote($_POST['del'], $link);
 		$_POST = array();
 	} else if(isset($_POST['inputZitat']) && isset($_POST['inputAutor'])) {
-		
-		$zitat = mysqli_real_escape_string($link,$_POST['inputZitat']);
-		$autor = mysqli_real_escape_string($link,$_POST['inputAutor']);
-		
-		if (($zitat != "" ) && ($autor != "" )){
-			// Datenbank-Abfrage
-			$addQuote = "INSERT INTO zitat (`quote` ,`autor`) VALUES ('$zitat', '$autor')";
-			$res = mysqli_query ($link, $addQuote) or die('Fehler mysqli_query(): ' . mysqli_error($link));
-			$_POST = array();
-		};
+		insertQuote($_POST['inputZitat'], $_POST['inputAutor'], $link);
+		$_POST = array();
 	}
 	
 	// Datenbank-Abfrage
@@ -35,9 +24,21 @@
 	// Verbindung trennen
 	mysqli_close ($link);
 	
+/*
+Sample Unit Test 
+function insertTest() {
+	$id = insertQuote('test 123', '123 test');
+	getQuote($id);
+	assert(getQuote.Autor, '==', '123 test')
+}
+function deleteTest() {
+	$id = insertQuote('redsad', 'das das');
+	deleteQuote($id);
+	getQuote($id)
+	assert(getQuote == NULL)
+}
 
-
-
+*/
 ?>
 
 <html>
@@ -47,20 +48,15 @@
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		
-		<link rel="stylesheet" href="liste.css">
-		
-		<style>
-			.delBtn {
-				background-color: red;
-				color: yellow;
-			}
-		</style>
-		
+		<link rel="stylesheet" href="../css/liste.css">
 	</head>
-		<body>
-
+	<body>
 		<div id="myDIV" class="header">
-			<h2 style="margin:5px">Zitatliste</h2>
+		
+		<h1>Welcome <i>"<?php echo $login_session; ?>"</i></h1> 
+		<a href ="logout.php"><div class="signout">Sign Out</div></a>
+		
+			<h2 style="margin:5px; margin-top:40px;">Zitatliste</h2>
 			<form action = "liste.php" method = "post">
 			  <input type="text" id="inputZitat" name = "inputZitat" placeholder="Zitat...">
 			  <input type="text" id="inputAutor" name = "inputAutor" placeholder="Autor...">
@@ -77,9 +73,9 @@
 			$.getJSON( "data.php?all=1")
 				.done(function( data ) {
 					var items = [];
-				    $.each( data, function(key, val) {
-					  items.push( "<li id='" + val.idZitat + "'>" + val.quote + "<br>" + val.autor + "<input type='button' name='delete' class='delBtn' data='"+val.idZitat+"'/>" + "</li>" );
-				    });
+					$.each( data, function(key, val) {
+					  items.push( "<li id='" + val.idZitat + "'>" + val.quote + "<br>" + val.autor + "<input type='button' name='delete' class='delBtn' value='X' data='"+val.idZitat+"'/>" + "</li>" );
+					});
 					  $( "<ul/>", {
 						"class": "my-new-list",
 						"id": "myUL",
@@ -94,108 +90,9 @@
 							loadData();
 						  });
 					});
-   				}
+				}
 			);
 		}
 		</script>
-		
-		<h1>Welcome <?php echo $login_session; ?></h1> 
-		<h2><a href = "logout.php">Sign Out</a></h2>
-		<!--
-		<script>
-		
-		// Create a "close" button and append it to each list item
-		var myNodelist = document.getElementsByTagName("LI");
-		var i;
-		for (i = 0; i < myNodelist.length; i++) {
-		  var span = document.createElement("SPAN");
-		  var txt = document.createTextNode("\u00D7");
-		  
-		  span.className = "close";
-		  
-		  span.appendChild(txt);
-		  
-		  // set div and set autor
-		  var div = document.createElement("DIV");
-		  var txt = document.createTextNode("");
-		  
-		  // Set text in div
-		  div.appendChild(txt);
-		  
-		  myNodelist[i].appendChild(span);
-		  
-		  // Put in div
-		  myNodelist[i].appendChild(div);
-		}
-		
-		// Click on a close button to hide the current list item
-		var close = document.getElementsByClassName("close");
-		var i;
-		for (i = 0; i < close.length; i++) {
-		  close[i].onclick = function() {
-			var div = this.parentElement;
-			div.style.display = "none";
-		  }
-		}
-
-		// Create a new list item when clicking on the "Add" button
-		function newElement() {
-
-		
-		  var li = document.createElement("li");
-		  
-		  var inputZitat = document.getElementById("inputZitat").value;
-		  var inputAutor = document.getElementById("inputAutor").value;
-		  
-		  var z = document.createTextNode(inputZitat);
-		  
-		  li.appendChild(z);
-		  
-		  if (inputZitat === '' || inputAutor === '') {
-			alert("Die Felder dürfen nicht leer sein!");
-		  } else {
-			document.getElementById("myUL").appendChild(li);
-			
-
-			
-		  }
-		  document.getElementById("inputZitat").value = "";
-		  document.getElementById("inputAutor").value = "";
-		  
-
-		  var span = document.createElement("SPAN");
-		  var txt = document.createTextNode("\u00D7");
-		  
-		  var div = document.createElement("DIV");
-		  div.className = "secondLine";
-		  var txtBla = document.createTextNode(inputAutor);
-		  
-		  // Delete Button
-		  span.className = "close";
-		  span.appendChild(txt);
-		  
-		  // Set Autor
-		  div.appendChild(txtBla);
-		  
-		  li.appendChild(span);
-		  li.appendChild(div);
-
-		  // Delete input
-		  for (i = 0; i < close.length; i++) {
-			close[i].onclick = function() {
-			  var div = this.parentElement;
-			  this.parentNode.removeChild(this);
-			}
-		  }
-		}
-		
-		var listItems = document.getElementsByClass("close"); // or document.querySelectorAll("li"); 
-		for (var i = 0; i < listItems.length; i++) {
-		  listItems[i].onclick = function() {this.parentNode.removeChild(this);}
-		}
-		
-		</script>
-		-->
-
 	</body>
 </html>

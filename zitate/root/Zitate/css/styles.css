@@ -20,6 +20,11 @@ body {
     opacity:0.8;
 }
 
+/* .page { */
+    /* padding-top: 25%; */
+/* } */
+
+
 .content {
     letter-spacing: 0.2em;
     padding:20px 30px;
@@ -45,9 +50,13 @@ h2 {
 
 .footer {
     font-size: 12px;
-    padding-top: 41%;
+    margin-top: -30px;
+    /* padding-top: 41%; */
     color: black;
     font-weight: bold;
+    position: absolute;
+    text-align: center;
+    left: 44%;
 }
 
 
