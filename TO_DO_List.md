@@ -5,7 +5,7 @@
 | 2        | 14        | 03         | 11    |
 | 3        | 18        | 07         | 11    |
 | 4        | 20        | 13         | 07    |
-| 5        | xx        | xx         | xx    |
+| 5        | 01        | xx         | xx    |
 
 
 
@@ -65,7 +65,6 @@
 1. **[Besar]** ~~Datensätze (Zitaten) hinzufügen~~
 1. **[Ho Tin]** Sekräterin Account erstellen für Zitate erstellen und bearbeiten
 1. **[]** Zitatliste, Author & Geburtsdatum vom Author einfügen
-1. **[]** Developer Branch erstellen + updaten
 1. **[]** Statistik der Anzahl Hits pro Zitat
 1. **[]** Lieblingszitate können geliked werden
 1. **[]** Geburtstag der Autoren anzeigen
@@ -83,8 +82,7 @@
 
 #### 04.12.2017 (Sprint 5)
 
-1. Task 1
-1. Task 1
+1. **[Marko/Besar/Johannes]** [15min] Developer Branch erstellen + updaten
 1. **[Marko/Besar/Ho Tin/Johannes]** Lesson Learnend Tag 05 (jeder für sich) 
 1. **[Ho Tin]** Die Akuellsten Dateien auf GitHub uploaden für die Benotung
 
